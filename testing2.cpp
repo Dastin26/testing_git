@@ -9,5 +9,6 @@ int main()
     cout << "Testing commit in branch with new username" << endl;
     cout << "Hellow world again" << endl;
     cout << "Hellow world again x2" << endl;
+    cout << "Dastinator" << endl;
     return 0;
 }
