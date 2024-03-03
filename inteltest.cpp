@@ -27,6 +27,7 @@ Email: jqb1999@hotmail.com
 #include <iostream>
 #include <cstdlib> 
 #include <unistd.h>
+#include <stdint.h>
 
 
 using namespace std;
